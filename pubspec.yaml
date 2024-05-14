@@ -1,0 +1,65 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/meja_rak_file_2.png
+  - assets/images/kursi_minimalis_andrea_1.png
+  - assets/images/kursi_malas_jati_2.png
+  - assets/vectors/minus_sm_3_x2.svg
+  - assets/vectors/arrow_1_x2.svg
+  - assets/vectors/bag_fill_3_x2.svg
+  - assets/vectors/plus_stroke_2_x2.svg
+  - assets/vectors/minus_sm_2_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/plus_stroke_1_x2.svg
+  - assets/vectors/plus_stroke_4_x2.svg
+  - assets/vectors/minus_sm_1_x2.svg
+  - assets/images/kursi_minimalis_andrea_1.png
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/minus_sm_x2.svg
+  - assets/vectors/bag_fill_1_x2.svg
+  - assets/vectors/plus_stroke_x2.svg
+  - assets/vectors/vector_v_2_stroke_1_x2.svg
+  - assets/images/kursi_malas_jati_2.png
+  - assets/images/kursi_minimalis_andrea_1.png
+  - assets/images/meja_rak_file_2.png
+  - assets/vectors/star_89_x2.svg
+  - assets/vectors/arrow_3_x2.svg
+  - assets/vectors/star_87_x2.svg
+  - assets/vectors/star_8_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/bag_fill_4_x2.svg
+  - assets/vectors/star_88_x2.svg
+  - assets/vectors/star_82_x2.svg
+  - assets/vectors/union_1_x2.svg
+  - assets/vectors/arrow_2_x2.svg
+  - assets/vectors/star_84_x2.svg
+  - assets/vectors/union_4_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/star_86_x2.svg
+  - assets/vectors/star_81_x2.svg
+  - assets/vectors/star_85_x2.svg
+  - assets/vectors/star_83_x2.svg
+  - assets/vectors/person_fill_x2.svg
+  - assets/vectors/union_3_x2.svg
+
